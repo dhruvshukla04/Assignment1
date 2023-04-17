@@ -1,0 +1,47 @@
+header{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+img{
+    height:400px;
+    width: 700px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+table{
+    border-collapse: collapse;
+}
+th{
+    font-size: 18px;
+    text-align: center;
+}
+td{
+    font-size: 18px;
+    text-align: center;
+}
+div{
+
+    padding: 30px;
+}
+ol{
+    font-size: 18px;
+}
+form{
+    font-size: 18px;
+}
+label{
+    font-size: 18px;
+    color: blue;
+}
+button{
+    font-size: 18px;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    width: 150px;
+    height: 30px ;
+    color: blue;
+}
